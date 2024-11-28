@@ -31,7 +31,7 @@ git clone https://github.com/zaidKamboo/ogd-assignment.git
 
 ### 2. Navigate to the project directory
 ```bash
-cd user-management-app
+cd ogd-assignment
 ```
 
 ### 3. Install Dependcies
